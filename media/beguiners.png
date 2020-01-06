@@ -1,0 +1,317 @@
+
+<!DOCTYPE html>
+<html lang="en" class="no-js logged-in client-root">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <title>
+Adagio Ballet Project on Instagram: “TODO ES LA PRACTICA . 😊 Desliza &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; . Cuando Pelé dijo esta frase, siendo uno de los mas brillantes futbolistas que ha…”
+</title>
+
+        
+        <meta name="robots" content="noimageindex, noarchive">
+        <meta name="apple-mobile-web-app-status-bar-style" content="default">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="theme-color" content="#ffffff">
+        <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover">
+        <link rel="manifest" href="/data/manifest.json">
+
+        <link rel="preload" href="/static/bundles/es6/ConsumerUICommons.css/739b50b97f72.css" as="style" type="text/css" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/es6/ConsumerAsyncCommons.css/b89a1ccfaa6e.css" as="style" type="text/css" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/es6/Consumer.css/8952ba6781df.css" as="style" type="text/css" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/es6/PostPageContainer.css/5241ec43eb61.css" as="style" type="text/css" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/es6/Vendor.js/c911f5848b78.js" as="script" type="text/javascript" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/es6/en_US.js/b1adc454a689.js" as="script" type="text/javascript" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/es6/ConsumerLibCommons.js/fe82ceafa6f6.js" as="script" type="text/javascript" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/es6/ConsumerUICommons.js/9234678bae6d.js" as="script" type="text/javascript" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/es6/ConsumerAsyncCommons.js/ac56657e822e.js" as="script" type="text/javascript" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/es6/Consumer.js/f2f924181016.js" as="script" type="text/javascript" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/es6/PostPageContainer.js/1eddff7e24b4.js" as="script" type="text/javascript" crossorigin="anonymous" />
+        
+        
+
+        <script type="text/javascript">
+        (function() {
+  var docElement = document.documentElement;
+  var classRE = new RegExp('(^|\\s)no-js(\\s|$)');
+  var className = docElement.className;
+  docElement.className = className.replace(classRE, '$1js$2');
+})();
+</script>
+        <script type="text/javascript">
+(function() {
+  if ('PerformanceObserver' in window && 'PerformancePaintTiming' in window) {
+    window.__bufferedPerformance = [];
+    var ob = new PerformanceObserver(function(e) {
+      window.__bufferedPerformance.push.apply(window.__bufferedPerformance,e.getEntries());
+    });
+    ob.observe({entryTypes:['paint']});
+  }
+
+  window.__bufferedErrors = [];
+  window.onerror = function(message, url, line, column, error) {
+    window.__bufferedErrors.push({
+      message: message,
+      url: url,
+      line: line,
+      column: column,
+      error: error
+    });
+    return false;
+  };
+  window.__initialData = {
+    pending: true,
+    waiting: []
+  };
+  function asyncFetchSharedData(extra) {
+    var sharedDataReq = new XMLHttpRequest();
+    sharedDataReq.onreadystatechange = function() {
+          if (sharedDataReq.readyState === 4) {
+            if(sharedDataReq.status === 200){
+              var sharedData = JSON.parse(sharedDataReq.responseText);
+              window.__initialDataLoaded(sharedData, extra);
+            }
+          }
+        }
+    sharedDataReq.open('GET', '/data/shared_data/', true);
+    sharedDataReq.send(null);
+  }
+  function notifyLoaded(item, data) {
+    item.pending = false;
+    item.data = data;
+    for (var i = 0;i < item.waiting.length; ++i) {
+      item.waiting[i].resolve(item.data);
+    }
+    item.waiting = [];
+  }
+  function notifyError(item, msg) {
+    item.pending = false;
+    item.error = new Error(msg);
+    for (var i = 0;i < item.waiting.length; ++i) {
+      item.waiting[i].reject(item.error);
+    }
+    item.waiting = [];
+  }
+  window.__initialDataLoaded = function(initialData, extraData) {
+    if (extraData) {
+      for (var key in extraData) {
+        initialData[key] = extraData[key];
+      }
+    }
+    notifyLoaded(window.__initialData, initialData);
+  };
+  window.__initialDataError = function(msg) {
+    notifyError(window.__initialData, msg);
+  };
+  window.__additionalData = {};
+  window.__pendingAdditionalData = function(paths) {
+    for (var i = 0;i < paths.length; ++i) {
+      window.__additionalData[paths[i]] = {
+        pending: true,
+        waiting: []
+      };
+    }
+  };
+  window.__additionalDataLoaded = function(path, data) {
+    if (path in window.__additionalData) {
+      notifyLoaded(window.__additionalData[path], data);
+    } else {
+      console.error('Unexpected additional data loaded "' + path + '"');
+    }
+  };
+  window.__additionalDataError = function(path, msg) {
+    if (path in window.__additionalData) {
+      notifyError(window.__additionalData[path], msg);
+    } else {
+      console.error('Unexpected additional data encountered an error "' + path + '": ' + msg);
+    }
+  };
+  
+})();
+</script><script type="text/javascript">
+
+/*
+ Copyright 2018 Google Inc. All Rights Reserved.
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+*/
+
+(function(){function g(a,c){b||(b=a,f=c,h.forEach(function(a){removeEventListener(a,l,e)}),m())}function m(){b&&f&&0<d.length&&(d.forEach(function(a){a(b,f)}),d=[])}function n(a,c){function k(){g(a,c);d()}function b(){d()}function d(){removeEventListener("pointerup",k,e);removeEventListener("pointercancel",b,e)}addEventListener("pointerup",k,e);addEventListener("pointercancel",b,e)}function l(a){if(a.cancelable){var c=performance.now(),b=a.timeStamp;b>c&&(c=+new Date);c-=b;"pointerdown"==a.type?n(c,
+a):g(c,a)}}var e={passive:!0,capture:!0},h=["click","mousedown","keydown","touchstart","pointerdown"],b,f,d=[];h.forEach(function(a){addEventListener(a,l,e)});window.perfMetrics=window.perfMetrics||{};window.perfMetrics.onFirstInputDelay=function(a){d.push(a);m()}})();
+</script>
+    
+                <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png">
+                <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/images/ico/apple-touch-icon-120x120-precomposed.png/8a5bd3f267b1.png">
+                <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/images/ico/apple-touch-icon-152x152-precomposed.png/68193576ffc5.png">
+                <link rel="apple-touch-icon-precomposed" sizes="167x167" href="/static/images/ico/apple-touch-icon-167x167-precomposed.png/4985e31c9100.png">
+                <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/static/images/ico/apple-touch-icon-180x180-precomposed.png/c06fdb2357bd.png">
+                
+                    <link rel="icon" sizes="192x192" href="/static/images/ico/favicon-192.png/68d99ba29cc8.png">
+                
+            
+            
+                    <link rel="mask-icon" href="/static/images/ico/favicon.svg/fc72dd4bfde8.svg" color="#262626">
+                  
+                  <link rel="shortcut icon" type="image/x-icon" href="/static/images/ico/favicon.ico/36b3ee2d91ed.ico">
+                
+            
+            
+            
+    
+    <meta property="al:ios:app_name" content="Instagram" />
+    <meta property="al:ios:app_store_id" content="389801252" />
+    <meta property="al:ios:url" content="instagram://media?id=1977120852638297846" />
+    <meta property="al:android:app_name" content="Instagram" />
+    <meta property="al:android:package" content="com.instagram.android" />
+    <meta property="al:android:url" content="https://www.instagram.com/p/BtwJPCzhe72/" />
+    
+    <link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/" hreflang="x-default" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=en" hreflang="en" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=fr" hreflang="fr" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=it" hreflang="it" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=de" hreflang="de" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es" hreflang="es" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=zh-cn" hreflang="zh-cn" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=zh-tw" hreflang="zh-tw" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=ja" hreflang="ja" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=ko" hreflang="ko" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=pt" hreflang="pt" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=pt-br" hreflang="pt-br" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=af" hreflang="af" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=cs" hreflang="cs" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=da" hreflang="da" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=el" hreflang="el" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=fi" hreflang="fi" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=hr" hreflang="hr" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=hu" hreflang="hu" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=id" hreflang="id" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=ms" hreflang="ms" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=nb" hreflang="nb" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=nl" hreflang="nl" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=pl" hreflang="pl" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=ru" hreflang="ru" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=sk" hreflang="sk" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=sv" hreflang="sv" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=th" hreflang="th" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=tl" hreflang="tl" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=tr" hreflang="tr" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=hi" hreflang="hi" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=bn" hreflang="bn" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=gu" hreflang="gu" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=kn" hreflang="kn" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=ml" hreflang="ml" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=mr" hreflang="mr" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=pa" hreflang="pa" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=ta" hreflang="ta" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=te" hreflang="te" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=ne" hreflang="ne" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=si" hreflang="si" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=ur" hreflang="ur" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=vi" hreflang="vi" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=bg" hreflang="bg" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=fr-ca" hreflang="fr-ca" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=ro" hreflang="ro" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=sr" hreflang="sr" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=uk" hreflang="uk" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=zh-hk" hreflang="zh-hk" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-mx" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-do" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-gt" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-hn" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-cl" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-ar" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-sv" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-ec" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-pe" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-uy" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-py" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-cu" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-cr" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-co" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-ni" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-pr" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-bo" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-ve" />
+<link rel="alternate" href="https://www.instagram.com/p/BtwJPCzhe72/?hl=es-la" hreflang="es-pa" />
+</head>
+    <body class="" style="background: white;">
+        
+<div id="react-root">
+  <span>
+    <svg width="50" height="50" viewBox="0 0 50 50" style="position:absolute;top:50%;left:50%;margin:-25px 0 0 -25px;fill:#c7c7c7"><path d="M25 1c-6.52 0-7.34.03-9.9.14-2.55.12-4.3.53-5.82 1.12a11.76 11.76 0 0 0-4.25 2.77 11.76 11.76 0 0 0-2.77 4.25c-.6 1.52-1 3.27-1.12 5.82C1.03 17.66 1 18.48 1 25c0 6.5.03 7.33.14 9.88.12 2.56.53 4.3 1.12 5.83a11.76 11.76 0 0 0 2.77 4.25 11.76 11.76 0 0 0 4.25 2.77c1.52.59 3.27 1 5.82 1.11 2.56.12 3.38.14 9.9.14 6.5 0 7.33-.02 9.88-.14 2.56-.12 4.3-.52 5.83-1.11a11.76 11.76 0 0 0 4.25-2.77 11.76 11.76 0 0 0 2.77-4.25c.59-1.53 1-3.27 1.11-5.83.12-2.55.14-3.37.14-9.89 0-6.51-.02-7.33-.14-9.89-.12-2.55-.52-4.3-1.11-5.82a11.76 11.76 0 0 0-2.77-4.25 11.76 11.76 0 0 0-4.25-2.77c-1.53-.6-3.27-1-5.83-1.12A170.2 170.2 0 0 0 25 1zm0 4.32c6.4 0 7.16.03 9.69.14 2.34.11 3.6.5 4.45.83 1.12.43 1.92.95 2.76 1.8a7.43 7.43 0 0 1 1.8 2.75c.32.85.72 2.12.82 4.46.12 2.53.14 3.29.14 9.7 0 6.4-.02 7.16-.14 9.69-.1 2.34-.5 3.6-.82 4.45a7.43 7.43 0 0 1-1.8 2.76 7.43 7.43 0 0 1-2.76 1.8c-.84.32-2.11.72-4.45.82-2.53.12-3.3.14-9.7.14-6.4 0-7.16-.02-9.7-.14-2.33-.1-3.6-.5-4.45-.82a7.43 7.43 0 0 1-2.76-1.8 7.43 7.43 0 0 1-1.8-2.76c-.32-.84-.71-2.11-.82-4.45a166.5 166.5 0 0 1-.14-9.7c0-6.4.03-7.16.14-9.7.11-2.33.5-3.6.83-4.45a7.43 7.43 0 0 1 1.8-2.76 7.43 7.43 0 0 1 2.75-1.8c.85-.32 2.12-.71 4.46-.82 2.53-.11 3.29-.14 9.7-.14zm0 7.35a12.32 12.32 0 1 0 0 24.64 12.32 12.32 0 0 0 0-24.64zM25 33a8 8 0 1 1 0-16 8 8 0 0 1 0 16zm15.68-20.8a2.88 2.88 0 1 0-5.76 0 2.88 2.88 0 0 0 5.76 0z"/></svg>
+    
+  </span>
+  
+</div>
+
+        
+
+<script type="text/javascript">window.__pendingAdditionalData(["/p/BtwJPCzhe72/"]);</script><link rel="stylesheet" href="/static/bundles/es6/ConsumerUICommons.css/739b50b97f72.css" type="text/css" crossorigin="anonymous" />
+<link rel="stylesheet" href="/static/bundles/es6/ConsumerAsyncCommons.css/b89a1ccfaa6e.css" type="text/css" crossorigin="anonymous" />
+<link rel="stylesheet" href="/static/bundles/es6/Consumer.css/8952ba6781df.css" type="text/css" crossorigin="anonymous" />
+<script type="text/javascript">var __BUNDLE_START_TIME__=this.nativePerformanceNow?nativePerformanceNow():Date.now(),__DEV__=false,process=this.process||{};process.env=process.env||{};process.env.NODE_ENV=process.env.NODE_ENV||"production";!(function(t){"use strict";function e(){return s=Object.create(null)}function r(t){const e=t,r=s[e];return r&&r.isInitialized?r.publicModule.exports:i(e,r)}function n(t){const e=t;if(s[e]&&s[e].importedDefault!==f)return s[e].importedDefault;const n=r(e),o=n&&n.__esModule?n.default:n;return s[e].importedDefault=o}function o(t){const e=t;if(s[e]&&s[e].importedAll!==f)return s[e].importedAll;const n=r(e);let o;if(n&&n.__esModule)o=n;else{if(o={},n)for(const t in n)a.call(n,t)&&(o[t]=n[t]);o.default=n}return s[e].importedAll=o}function i(e,r){if(!p&&t.ErrorUtils){p=!0;let n;try{n=c(e,r)}catch(e){t.ErrorUtils.reportFatalError(e)}return p=!1,n}return c(e,r)}function l(t){return{segmentId:t>>>h,localId:t&m}}function c(e,i){if(!i&&I.length>0){const t=l(e),r=t.segmentId,n=t.localId,o=I[r];null!=o&&(o(n),i=s[e])}const c=t.nativeRequire;if(!i&&c){const t=l(e),r=t.segmentId;c(t.localId,r),i=s[e]}if(!i)throw u(e);if(i.hasError)throw d(e,i.error);i.isInitialized=!0;const f=i,a=f.factory,p=f.dependencyMap;try{const l=i.publicModule;if(l.id=e,g.length>0)for(let t=0;t<g.length;++t)g[t].cb(e,l);return a(t,r,n,o,l,l.exports,p),i.factory=void 0,i.dependencyMap=void 0,l.exports}catch(t){throw i.hasError=!0,i.error=t,i.isInitialized=!1,i.publicModule.exports=void 0,t}}function u(t){let e='Requiring unknown module "'+t+'".';return Error(e)}function d(t,e){const r=t;return Error('Requiring module "'+r+'", which threw an exception: '+e)}t.__r=r,t.__d=function(t,e,r){null==s[e]&&(s[e]={dependencyMap:r,factory:t,hasError:!1,importedAll:f,importedDefault:f,isInitialized:!1,publicModule:{exports:{}}})},t.__c=e,t.__registerSegment=function(t,e){I[t]=e};var s=e();const f={},a={}.hasOwnProperty;r.importDefault=n,r.importAll=o;let p=!1;const h=16,m=65535;r.unpackModuleId=l,r.packModuleId=function(t){return(t.segmentId<<h)+t.localId};const g=[];r.registerHook=function(t){const e={cb:t};return g.push(e),{release:()=>{for(let t=0;t<g.length;++t)if(g[t]===e){g.splice(t,1);break}}}};const I=[]})('undefined'!=typeof global?global:'undefined'!=typeof window?window:this);
+__s={"js":{"146":"/static/bundles/es6/EncryptionUtils.js/c808b8dee83e.js","147":"/static/bundles/es6/MobileStoriesLoginPage.js/4c103a1f8664.js","148":"/static/bundles/es6/DesktopStoriesLoginPage.js/e1ddc9e27a1f.js","149":"/static/bundles/es6/DirectSearchUserContainer.js/1b4cf0c3cfe0.js","150":"/static/bundles/es6/MobileStoriesPage.js/60cd2b5841c2.js","151":"/static/bundles/es6/DesktopStoriesPage.js/8aa85c80df81.js","152":"/static/bundles/es6/ActivityFeedPage.js/a598e32f937d.js","153":"/static/bundles/es6/AdsSettingsPage.js/e4114c3ef448.js","154":"/static/bundles/es6/DonateCheckoutPage.js/aa4fb6863440.js","155":"/static/bundles/es6/CameraPage.js/c32ebc81acdb.js","156":"/static/bundles/es6/SettingsModules.js/845fb5474a6c.js","157":"/static/bundles/es6/ContactHistoryPage.js/b5864a74fd65.js","158":"/static/bundles/es6/AccessToolPage.js/d9b9de879708.js","159":"/static/bundles/es6/AccessToolViewAllPage.js/8c07467c8b27.js","160":"/static/bundles/es6/AccountPrivacyBugPage.js/a04884bade5d.js","161":"/static/bundles/es6/FirstPartyPlaintextPasswordLandingPage.js/b6c9f66fa209.js","162":"/static/bundles/es6/ThirdPartyPlaintextPasswordLandingPage.js/b35727e13b0d.js","163":"/static/bundles/es6/ShoppingBagLandingPage.js/5d17f7a8d35b.js","164":"/static/bundles/es6/PlaintextPasswordBugPage.js/aa0099576b80.js","165":"/static/bundles/es6/PrivateAccountMadePublicBugPage.js/487dddaa03b6.js","166":"/static/bundles/es6/PublicAccountNotMadePrivateBugPage.js/edc19aa9fece.js","167":"/static/bundles/es6/BlockedAccountsBugPage.js/d90042f87709.js","168":"/static/bundles/es6/AndroidBetaPrivacyBugPage.js/fe2d19a09f79.js","169":"/static/bundles/es6/DataControlsSupportPage.js/ab02ddf9af64.js","170":"/static/bundles/es6/DataDownloadRequestPage.js/3803f380606a.js","171":"/static/bundles/es6/DataDownloadRequestConfirmPage.js/5caf074ca4fe.js","172":"/static/bundles/es6/CheckpointUnderageAppealPage.js/e0bdb95c66f1.js","173":"/static/bundles/es6/AccountRecoveryLandingPage.js/aebcd37b5446.js","174":"/static/bundles/es6/ContactInvitesOptOutPage.js/b5714ad65a7b.js","175":"/static/bundles/es6/ParentalConsentPage.js/6ee0be86d4d8.js","176":"/static/bundles/es6/ParentalConsentNotParentPage.js/bbbe61cc17cd.js","177":"/static/bundles/es6/TermsAcceptPage.js/adaf95c3b4ed.js","178":"/static/bundles/es6/TermsUnblockPage.js/c260e140b8d8.js","179":"/static/bundles/es6/NewTermsConfirmPage.js/1187c37b7d46.js","180":"/static/bundles/es6/ContactInvitesOptOutStatusPage.js/a6df0f1c9c81.js","181":"/static/bundles/es6/CreationModules.js/9dbe9ece9f1a.js","182":"/static/bundles/es6/StoryCreationPage.js/80e4f8fed752.js","183":"/static/bundles/es6/ExploreMediaPageContainer.js/e7a1f2d24115.js","184":"/static/bundles/es6/PostCommentInput.js/f79f98bddfbc.js","186":"/static/bundles/es6/PostModalEntrypoint.js/ebc46156dd8c.js","187":"/static/bundles/es6/PostComments.js/3864b36f605e.js","188":"/static/bundles/es6/LikedByListContainer.js/da9e9fe6c1a1.js","189":"/static/bundles/es6/CommentLikedByListContainer.js/784f6775ed75.js","190":"/static/bundles/es6/shaka-player.ui.js/59fc00d204e4.js","191":"/static/bundles/es6/DiscoverMediaPageContainer.js/cc2088191560.js","192":"/static/bundles/es6/DiscoverPeoplePageContainer.js/0fbfe98817ea.js","193":"/static/bundles/es6/EmailConfirmationPage.js/7c0bf65eacc6.js","194":"/static/bundles/es6/FBSignupPage.js/60cd4ee0f786.js","195":"/static/bundles/es6/NewUserInterstitial.js/24128f45d0f6.js","196":"/static/bundles/es6/MultiStepSignupPage.js/0ef10e91838c.js","197":"/static/bundles/es6/EmptyFeedPage.js/ab0f748fa918.js","198":"/static/bundles/es6/NewUserActivatorsUnit.js/1a4eba883d5d.js","199":"/static/bundles/es6/FeedEndSuggestedUserUnit.js/bd99980687a3.js","200":"/static/bundles/es6/FeedSidebarContainer.js/10baad98da6c.js","201":"/static/bundles/es6/SuggestedUserFeedUnitContainer.js/bd691c79e026.js","202":"/static/bundles/es6/InFeedStoryTray.js/6ac0bc654f25.js","203":"/static/bundles/es6/FeedPageContainer.js/f116b13aac2b.js","204":"/static/bundles/es6/FollowListModal.js/0be8159ae12e.js","205":"/static/bundles/es6/FollowListPage.js/4bf1729b37f3.js","206":"/static/bundles/es6/SimilarAccountsPage.js/1bd4cf659160.js","207":"/static/bundles/es6/FalseInformationLandingPage.js/d1f8c13a1a6d.js","208":"/static/bundles/es6/LandingPage.js/ea0d2c2ac8d4.js","209":"/static/bundles/es6/LocationsDirectoryCountryPage.js/844bef282909.js","210":"/static/bundles/es6/LocationsDirectoryCityPage.js/ce0c85a6587f.js","211":"/static/bundles/es6/LocationPageContainer.js/d0bfdc53252b.js","212":"/static/bundles/es6/LocationsDirectoryLandingPage.js/66f2534db78f.js","213":"/static/bundles/es6/LoginAndSignupPage.js/ebb5818f9cef.js","214":"/static/bundles/es6/ResetPasswordPageContainer.js/b2926ab5b2fa.js","215":"/static/bundles/es6/MobileAllCommentsPage.js/092bb4d26a5b.js","216":"/static/bundles/es6/MediaChainingPageContainer.js/3436360ff542.js","217":"/static/bundles/es6/PostPageContainer.js/1eddff7e24b4.js","218":"/static/bundles/es6/ProfilesDirectoryLandingPage.js/e57d04791313.js","219":"/static/bundles/es6/HashtagsDirectoryLandingPage.js/6adf96f1c94f.js","220":"/static/bundles/es6/SuggestedDirectoryLandingPage.js/5c496e019393.js","221":"/static/bundles/es6/TagPageContainer.js/80ba7a7ad8a2.js","222":"/static/bundles/es6/PhoneConfirmPage.js/9b3958d4e88a.js","223":"/static/bundles/es6/SimilarAccountsModal.js/aa9c9f579de8.js","224":"/static/bundles/es6/ProfilePageContainer.js/8dc74ac8eaf0.js","225":"/static/bundles/es6/HttpErrorPage.js/1f1f5eefc12d.js","226":"/static/bundles/es6/IGTVVideoDraftsPageContainer.js/ada5289a0d07.js","227":"/static/bundles/es6/IGTVVideoUploadPageContainer.js/1e605f822bfd.js","228":"/static/bundles/es6/OAuthPermissionsPage.js/0ad98c177e08.js","229":"/static/bundles/es6/MobileDirectPage.js/216ef1707285.js","230":"/static/bundles/es6/DesktopDirectPage.js/f4c6d80a8f0e.js","231":"/static/bundles/es6/OneTapUpsell.js/b8a890f38872.js","232":"/static/bundles/es6/NametagLandingPage.js/cebc3f26db62.js","233":"/static/bundles/es6/LocalDevTransactionToolSelectorPage.js/0912d37c60c0.js","234":"/static/bundles/es6/ActivityFeedBox.js/a88e0f11517c.js","235":"/static/bundles/es6/DirectMQTT.js/88a6770494e2.js","236":"/static/bundles/es6/DebugInfoNub.js/58a3bcb04289.js","238":"/static/bundles/es6/Consumer.js/f2f924181016.js","239":"/static/bundles/es6/Challenge.js/3a63f537dacb.js","240":"/static/bundles/es6/NotificationLandingPage.js/8035303f1c7b.js","256":"/static/bundles/es6/EmbedAsyncLogger.js/c98a96d55957.js","258":"/static/bundles/es6/EmbedVideoWrapper.js/ccf8b2a7b288.js","259":"/static/bundles/es6/EmbedSidecarEntrypoint.js/43dbec9b82e6.js","260":"/static/bundles/es6/EmbedRich.js/725a04c796e0.js"},"css":{"147":"/static/bundles/es6/MobileStoriesLoginPage.css/842db8e3a131.css","148":"/static/bundles/es6/DesktopStoriesLoginPage.css/05d51533edaf.css","149":"/static/bundles/es6/DirectSearchUserContainer.css/22c66d855ac1.css","150":"/static/bundles/es6/MobileStoriesPage.css/701ea769a26f.css","151":"/static/bundles/es6/DesktopStoriesPage.css/3a9a496a2640.css","152":"/static/bundles/es6/ActivityFeedPage.css/16bef02ee117.css","153":"/static/bundles/es6/AdsSettingsPage.css/6c85640729d7.css","154":"/static/bundles/es6/DonateCheckoutPage.css/6c85640729d7.css","155":"/static/bundles/es6/CameraPage.css/5deda4e7e465.css","156":"/static/bundles/es6/SettingsModules.css/fc5580d1573e.css","157":"/static/bundles/es6/ContactHistoryPage.css/34ab63508bd0.css","158":"/static/bundles/es6/AccessToolPage.css/12daaa753f7c.css","159":"/static/bundles/es6/AccessToolViewAllPage.css/4aee120d6360.css","160":"/static/bundles/es6/AccountPrivacyBugPage.css/a388cb605b60.css","163":"/static/bundles/es6/ShoppingBagLandingPage.css/9ea9da8878b6.css","168":"/static/bundles/es6/AndroidBetaPrivacyBugPage.css/17e8362798f7.css","169":"/static/bundles/es6/DataControlsSupportPage.css/35d54b69c6c2.css","170":"/static/bundles/es6/DataDownloadRequestPage.css/c7fd80f52f6c.css","171":"/static/bundles/es6/DataDownloadRequestConfirmPage.css/bedb94ce8aa6.css","172":"/static/bundles/es6/CheckpointUnderageAppealPage.css/16f3c27c90f1.css","173":"/static/bundles/es6/AccountRecoveryLandingPage.css/3f6e2fa561c0.css","174":"/static/bundles/es6/ContactInvitesOptOutPage.css/2d3511c008a7.css","175":"/static/bundles/es6/ParentalConsentPage.css/03c048ca9e8c.css","176":"/static/bundles/es6/ParentalConsentNotParentPage.css/48d3c7450a8d.css","177":"/static/bundles/es6/TermsAcceptPage.css/4369700bdc25.css","178":"/static/bundles/es6/TermsUnblockPage.css/a803f5e68fbd.css","179":"/static/bundles/es6/NewTermsConfirmPage.css/737fd410607a.css","180":"/static/bundles/es6/ContactInvitesOptOutStatusPage.css/856d94b8e737.css","181":"/static/bundles/es6/CreationModules.css/8151d85cf785.css","182":"/static/bundles/es6/StoryCreationPage.css/bba047cd44ea.css","183":"/static/bundles/es6/ExploreMediaPageContainer.css/688369f9110b.css","184":"/static/bundles/es6/PostCommentInput.css/816113cf74b0.css","186":"/static/bundles/es6/PostModalEntrypoint.css/31e1f49adb90.css","187":"/static/bundles/es6/PostComments.css/530b6f8eee80.css","188":"/static/bundles/es6/LikedByListContainer.css/644aa1d88516.css","189":"/static/bundles/es6/CommentLikedByListContainer.css/644aa1d88516.css","191":"/static/bundles/es6/DiscoverMediaPageContainer.css/f2ce41294cbb.css","192":"/static/bundles/es6/DiscoverPeoplePageContainer.css/c83d1cad5933.css","193":"/static/bundles/es6/EmailConfirmationPage.css/90364025b97f.css","194":"/static/bundles/es6/FBSignupPage.css/0eb57e8d5d5b.css","195":"/static/bundles/es6/NewUserInterstitial.css/bafaefd918ba.css","196":"/static/bundles/es6/MultiStepSignupPage.css/39f54f0c8f0f.css","197":"/static/bundles/es6/EmptyFeedPage.css/c8f9c7b850b0.css","199":"/static/bundles/es6/FeedEndSuggestedUserUnit.css/d97ebdfaae51.css","200":"/static/bundles/es6/FeedSidebarContainer.css/461f48648f3c.css","201":"/static/bundles/es6/SuggestedUserFeedUnitContainer.css/aee3fcd9b89b.css","202":"/static/bundles/es6/InFeedStoryTray.css/f32b035309b9.css","203":"/static/bundles/es6/FeedPageContainer.css/e378fc695a3e.css","204":"/static/bundles/es6/FollowListModal.css/4539e675f834.css","205":"/static/bundles/es6/FollowListPage.css/04d87135bb51.css","206":"/static/bundles/es6/SimilarAccountsPage.css/644aa1d88516.css","208":"/static/bundles/es6/LandingPage.css/ec6db3fc64a9.css","209":"/static/bundles/es6/LocationsDirectoryCountryPage.css/f011822b2d93.css","210":"/static/bundles/es6/LocationsDirectoryCityPage.css/f011822b2d93.css","211":"/static/bundles/es6/LocationPageContainer.css/94f0bd684cff.css","212":"/static/bundles/es6/LocationsDirectoryLandingPage.css/a69bead6658f.css","213":"/static/bundles/es6/LoginAndSignupPage.css/cdf52efe69c8.css","214":"/static/bundles/es6/ResetPasswordPageContainer.css/4b5dad3a1dfd.css","215":"/static/bundles/es6/MobileAllCommentsPage.css/261427d812fa.css","216":"/static/bundles/es6/MediaChainingPageContainer.css/94a3f117d32e.css","217":"/static/bundles/es6/PostPageContainer.css/5241ec43eb61.css","218":"/static/bundles/es6/ProfilesDirectoryLandingPage.css/ec897738d3bc.css","219":"/static/bundles/es6/HashtagsDirectoryLandingPage.css/ec897738d3bc.css","220":"/static/bundles/es6/SuggestedDirectoryLandingPage.css/ec897738d3bc.css","221":"/static/bundles/es6/TagPageContainer.css/1299291ed6f1.css","222":"/static/bundles/es6/PhoneConfirmPage.css/6fe5c666d3d5.css","224":"/static/bundles/es6/ProfilePageContainer.css/bb6c7e497276.css","225":"/static/bundles/es6/HttpErrorPage.css/97acfee23c4f.css","226":"/static/bundles/es6/IGTVVideoDraftsPageContainer.css/3f94627ccdef.css","227":"/static/bundles/es6/IGTVVideoUploadPageContainer.css/dd74272ec86c.css","228":"/static/bundles/es6/OAuthPermissionsPage.css/911f01846417.css","229":"/static/bundles/es6/MobileDirectPage.css/fdb5270fd69d.css","230":"/static/bundles/es6/DesktopDirectPage.css/80062a6149c7.css","231":"/static/bundles/es6/OneTapUpsell.css/3d1082494e45.css","232":"/static/bundles/es6/NametagLandingPage.css/2f84f5be7992.css","233":"/static/bundles/es6/LocalDevTransactionToolSelectorPage.css/3f8f9bb4c8a7.css","234":"/static/bundles/es6/ActivityFeedBox.css/edc6aa9b7628.css","236":"/static/bundles/es6/DebugInfoNub.css/d52a9abb5282.css","238":"/static/bundles/es6/Consumer.css/8952ba6781df.css","239":"/static/bundles/es6/Challenge.css/4d5002c9b97b.css","240":"/static/bundles/es6/NotificationLandingPage.css/761cd6dcd39c.css","258":"/static/bundles/es6/EmbedVideoWrapper.css/187f3f2b8a8f.css","259":"/static/bundles/es6/EmbedSidecarEntrypoint.css/8c5d333a5fe2.css","260":"/static/bundles/es6/EmbedRich.css/e6b674259287.css"}}</script>
+<script type="text/javascript" src="/static/bundles/es6/Vendor.js/c911f5848b78.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/bundles/es6/en_US.js/b1adc454a689.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/bundles/es6/ConsumerLibCommons.js/fe82ceafa6f6.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/bundles/es6/ConsumerUICommons.js/9234678bae6d.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/bundles/es6/ConsumerAsyncCommons.js/ac56657e822e.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/bundles/es6/Consumer.js/f2f924181016.js" crossorigin="anonymous" charset="utf-8" async=""></script>
+<script type="text/javascript" src="/static/bundles/es6/PostPageContainer.js/1eddff7e24b4.js" crossorigin="anonymous" charset="utf-8" async=""></script><script type="text/javascript">window._sharedData = {"config":{"csrf_token":"LHFil9goywbPYovW0vfwYpx9OxtC2sBJ","viewer":{"biography":"","external_url":null,"full_name":"Omar Vega","has_phone_number":true,"has_profile_pic":true,"id":"490697997","is_joined_recently":false,"is_private":false,"profile_pic_url":"https://instagram.fhex4-1.fna.fbcdn.net/v/t51.2885-19/11313739_1171205066226831_2115470879_a.jpg?_nc_ht=instagram.fhex4-1.fna.fbcdn.net\u0026_nc_ohc=VIB1sixYXlsAX_lNuik\u0026oh=38a544dd7565344ecfd5ee51706dfa53\u0026oe=5EA55B46","profile_pic_url_hd":"https://instagram.fhex4-1.fna.fbcdn.net/v/t51.2885-19/11313739_1171205066226831_2115470879_a.jpg?_nc_ht=instagram.fhex4-1.fna.fbcdn.net\u0026_nc_ohc=VIB1sixYXlsAX_lNuik\u0026oh=38a544dd7565344ecfd5ee51706dfa53\u0026oe=5EA55B46","username":"omarvega","badge_count":"{\"seq_id\": 226, \"badge_count\": 0, \"badge_count_at_ms\": 1578282602228}"},"viewerId":"490697997"},"country_code":"DO","language_code":"en","locale":"en_US","entry_data":{"PostPage":[{}]},"hostname":"www.instagram.com","deployment_stage":"c2","platform":"windows_nt_10","nonce":"8jGR8mT9RH7cm4hfbONblg==","mid_pct":53.36612,"zero_data":{},"cache_schema_version":3,"server_checks":{"hfe":true},"knobx":{"4":false,"17":false,"20":true,"21":36,"22":false},"to_cache":{"gatekeepers":{"4":true,"5":false,"6":false,"7":false,"8":false,"9":false,"10":false,"11":true,"12":false,"13":true,"14":true,"15":true,"16":true,"18":true,"19":false,"23":false,"24":false,"26":true,"27":false,"28":false,"29":true,"31":false,"32":true,"34":false,"35":false,"38":true,"40":true,"41":false,"43":false,"59":true,"61":false,"62":false,"63":false,"64":false,"65":false,"67":true,"68":false,"69":true,"71":true,"72":true,"73":false,"74":false,"75":true,"76":false,"77":false,"78":true,"79":false,"80":true,"81":false,"82":false},"qe":{"app_upsell":{"g":"","p":{}},"igl_app_upsell":{"g":"","p":{}},"notif":{"g":"","p":{}},"onetaplogin":{"g":"","p":{}},"multireg_iter":{"g":"","p":{}},"felix_clear_fb_cookie":{"g":"control","p":{"is_enabled":"true","blacklist":"fbsr_124024574287414"}},"felix_creation_duration_limits":{"g":"dogfooding","p":{"maximum_length_seconds":"3600","minimum_length_seconds":"60"}},"felix_creation_fb_crossposting":{"g":"control","p":{"is_enabled":"false"}},"felix_creation_fb_crossposting_v2":{"g":"control","p":{"is_enabled":"true","display_version":"2"}},"felix_creation_validation":{"g":"control","p":{"edit_video_controls":"true","description_maximum_length":"2200","max_video_size_in_bytes":"3600000000","minimum_length_for_feed_preview_seconds":"60","title_maximum_length":"75","valid_cover_mime_types":"image/jpeg,image/png","valid_video_extensions":"mp4,mov","valid_video_mime_types":"video/mp4,video/quicktime"}},"mweb_topical_explore":{"g":"","p":{}},"post_options":{"g":"control","p":{"use_refactor":"true","enable_igtv_embed":"true"}},"iglscioi":{"g":"","p":{}},"sticker_tray":{"g":"","p":{}},"web_sentry":{"g":"test","p":{"show_feedback":"true"}},"0":{"p":{"4":true,"7":true,"8":true,"9":false},"qex":true},"2":{"p":{"0":true},"qex":true},"4":{"p":{"0":true},"qex":true},"5":{"p":{"1":false},"qex":true},"6":{"p":{"1":true,"5":false,"6":false,"7":false,"9":false,"10":false},"qex":true},"10":{"p":{"2":false},"qex":true},"12":{"p":{"0":5},"qex":true},"13":{"p":{"0":true},"qex":true},"16":{"p":{"0":false},"qex":true},"17":{"p":{"1":true},"qex":true},"19":{"p":{"0":true},"qex":true},"21":{"p":{"2":false},"qex":true},"22":{"p":{"1":true,"2":4.0,"3":1.0,"4":1.2,"10":2.0,"11":30,"12":10,"13":true},"qex":true},"23":{"p":{"0":false,"1":false},"qex":true},"25":{"p":{},"qex":true},"26":{"p":{"0":""},"qex":true},"28":{"p":{"0":false},"qex":true},"29":{"p":{},"qex":true},"30":{"p":{"0":true},"qex":true},"31":{"p":{},"qex":true},"33":{"p":{},"qex":true},"34":{"p":{"0":false},"qex":true},"35":{"p":{"0":false},"qex":true},"36":{"p":{"0":true,"1":true,"2":false,"3":false,"4":false},"qex":true},"37":{"p":{"0":false},"qex":true},"39":{"p":{"0":false,"6":false,"7":false,"8":false,"9":false,"10":false,"11":false},"qex":true},"40":{"p":{"0":false},"qex":true},"41":{"p":{"3":true},"qex":true},"42":{"p":{"0":true},"qex":true},"43":{"p":{"0":false,"1":false,"2":false},"qex":true},"44":{"p":{"1":"inside_media","2":0.2},"qex":true},"45":{"p":{"2":true,"4":36,"7":true,"8":4,"12":false,"13":false,"14":true,"15":true,"16":36,"17":0,"18":false,"19":2,"22":false,"23":"control","24":false},"qex":true},"46":{"p":{"0":false},"qex":true},"47":{"p":{"0":true,"1":true,"2":false,"3":false,"4":false,"5":false,"6":false,"7":false,"8":false,"9":false,"10":false,"11":false},"qex":true},"48":{"p":{"0":true},"qex":true},"49":{"p":{"0":false},"qex":true},"50":{"p":{"0":false},"qex":true},"53":{"p":{"0":5},"qex":true},"54":{"p":{"0":false},"qex":true},"55":{"p":{"0":false},"qex":true},"58":{"p":{"0":0.0,"1":false},"qex":true},"59":{"p":{"0":true},"qex":true},"60":{"p":{},"qex":true},"62":{"p":{"0":false},"qex":true},"63":{"p":{"0":1},"qex":true},"64":{"p":{"0":false},"qex":true},"65":{"p":{},"qex":true},"66":{"p":{"0":false},"qex":true}},"probably_has_app":true,"cb":false},"device_id":"9AA445C5-E96D-41F5-A15A-5B03B0D2847C","encryption":{"key_id":"245","public_key":"f5a1fdb4e2e032e5d3b42c3350d69918eebdb640e2f9cc0fe1fc55cd7800cf30"},"rollout_hash":"61ee74a3c9f7","bundle_variant":"es6","is_canary":false};</script>
+<script type="text/javascript">window.__initialDataLoaded(window._sharedData);</script><script type="text/javascript">window.__additionalDataLoaded('/p/BtwJPCzhe72/',{"graphql":{"shortcode_media":{"__typename":"GraphSidecar","id":"1977120852638297846","shortcode":"BtwJPCzhe72","dimensions":{"height":720,"width":1080},"gating_info":null,"fact_check_overall_rating":null,"fact_check_information":null,"media_preview":null,"display_url":"https:\/\/instagram.fhex4-2.fna.fbcdn.net\/v\/t51.2885-15\/e35\/50592103_241487906792264_6284593331812607068_n.jpg?_nc_ht=instagram.fhex4-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=8uGD4Cp1wF4AX-Ti4v1&oh=4b7c920aafabdf5a09eb75f4d33fbd0e&oe=5EA2E9C1","display_resources":[{"src":"https:\/\/instagram.fhex4-2.fna.fbcdn.net\/v\/t51.2885-15\/sh0.08\/e35\/s640x640\/50592103_241487906792264_6284593331812607068_n.jpg?_nc_ht=instagram.fhex4-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=8uGD4Cp1wF4AX-Ti4v1&oh=54bd3100e847f4ed8accac018b48fcd8&oe=5EA05924","config_width":640,"config_height":426},{"src":"https:\/\/instagram.fhex4-2.fna.fbcdn.net\/v\/t51.2885-15\/sh0.08\/e35\/s750x750\/50592103_241487906792264_6284593331812607068_n.jpg?_nc_ht=instagram.fhex4-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=8uGD4Cp1wF4AX-Ti4v1&oh=9da72954e31b5826ca54b3167dff5e09&oe=5E951424","config_width":750,"config_height":500},{"src":"https:\/\/instagram.fhex4-2.fna.fbcdn.net\/v\/t51.2885-15\/e35\/50592103_241487906792264_6284593331812607068_n.jpg?_nc_ht=instagram.fhex4-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=8uGD4Cp1wF4AX-Ti4v1&oh=4b7c920aafabdf5a09eb75f4d33fbd0e&oe=5EA2E9C1","config_width":1080,"config_height":720}],"is_video":false,"tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNWJkNjUzY2UzZmNhNGFhNmIwNDliMmE2NGUwMzBmNTAxOTc3MTIwODUyNjM4Mjk3ODQ2Iiwic2VydmVyX3Rva2VuIjoiMTU3ODI4MjYwMjI2NXwxOTc3MTIwODUyNjM4Mjk3ODQ2fDQ5MDY5Nzk5N3xhM2I5MmEwZjJkZjBiOGQxYzlmNDc0ODJhNjMxYzVkMzYwNDI1MDFiYzU1NjUxYTJjNDc1ZjEwMDlkNTJlNWVmIn0sInNpZ25hdHVyZSI6IiJ9","edge_media_to_tagged_user":{"edges":[]},"edge_media_to_caption":{"edges":[{"node":{"text":"TODO ES LA PRACTICA\n.\n\ud83d\ude0a Desliza >>>>>>>>>>>>>>>>>>>>>\n.\nCuando Pel\u00e9 dijo esta frase, siendo uno de los mas brillantes futbolistas que ha visto el mundo, estaba dejando claro QUE NADIE NACE SABIENDO.\n.\nCuando naci\u00f3 mi hija Isabella, las personas me dec\u00edan que ser\u00eda bailarina, solo porque yo lo soy, pero estas no son habilidades que se heredan, estas se aprenden, e Isabella desde muy peque\u00f1a empez\u00f3 a prestar atenci\u00f3n a lo que hac\u00edan las otras ni\u00f1as en las clases, y me sorprend\u00eda repitiendo ejercicios para los cuales aun no estaba, f\u00edsicamente preparada. .\nAs\u00ed que algo que tengo claro es que ella ha progresado en el ballet no porque heredo el talento, lo ha hecho porque en las clases ha prestado atenci\u00f3n y ha completado sus ejercicios.\n.\nAs\u00ed que de la misma manera, tu peque\u00f1a tiene la oportunidad, si tiene el inter\u00e9s ap\u00f3yala, TODO ES LA PRACTICA.\n.\n\u00bfY t\u00fa, que crees?\n.\n#adagioballetpro #disciplinadivertida \n#ballet #clasesdeballet #MotivationMonday #DanceMonday #MondayMotivation #cute #littlegirl #mipeque\u00f1a #love #photooftheday #beautiful #cute #picoftheday #instadaily #art #girl #fun #instalike #amazing #\u00e9xito"}}]},"caption_is_edited":true,"has_ranked_comments":false,"edge_media_to_parent_comment":{"count":2,"page_info":{"has_next_page":false,"end_cursor":null},"edges":[{"node":{"id":"18015770437112354","text":"\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d","created_at":1549934542,"did_report_as_spam":false,"owner":{"id":"272388636","is_verified":false,"profile_pic_url":"https:\/\/instagram.fhex4-1.fna.fbcdn.net\/v\/t51.2885-19\/s150x150\/75572929_568105260677432_6536997089878999040_n.jpg?_nc_ht=instagram.fhex4-1.fna.fbcdn.net&_nc_ohc=zPxryHf06lEAX-Z7Qv7&oh=552b385ea7bdd2d00e56f9476f07e681&oe=5EA056C8","username":"raquel_rollins"},"viewer_has_liked":false,"edge_liked_by":{"count":0},"edge_threaded_comments":{"count":0,"page_info":{"has_next_page":false,"end_cursor":null},"edges":[]}}},{"node":{"id":"17956815364240954","text":"\ud83d\udc9e\ud83d\udc9e\ud83d\udc9e\ud83d\udc9e","created_at":1549976392,"did_report_as_spam":false,"owner":{"id":"178843472","is_verified":false,"profile_pic_url":"https:\/\/instagram.fhex4-1.fna.fbcdn.net\/v\/t51.2885-19\/s150x150\/68965028_2118349111610526_4815233529426214912_n.jpg?_nc_ht=instagram.fhex4-1.fna.fbcdn.net&_nc_ohc=-L-BkRaKtKIAX9uTrgs&oh=d720784025418ba18c6adde6c1f6dba6&oe=5E95193E","username":"a_blandino"},"viewer_has_liked":false,"edge_liked_by":{"count":1},"edge_threaded_comments":{"count":0,"page_info":{"has_next_page":false,"end_cursor":null},"edges":[]}}}]},"edge_media_preview_comment":{"count":2,"edges":[{"node":{"id":"18015770437112354","text":"\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d","created_at":1549934542,"did_report_as_spam":false,"owner":{"id":"272388636","is_verified":false,"profile_pic_url":"https:\/\/instagram.fhex4-1.fna.fbcdn.net\/v\/t51.2885-19\/s150x150\/75572929_568105260677432_6536997089878999040_n.jpg?_nc_ht=instagram.fhex4-1.fna.fbcdn.net&_nc_ohc=zPxryHf06lEAX-Z7Qv7&oh=552b385ea7bdd2d00e56f9476f07e681&oe=5EA056C8","username":"raquel_rollins"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17956815364240954","text":"\ud83d\udc9e\ud83d\udc9e\ud83d\udc9e\ud83d\udc9e","created_at":1549976392,"did_report_as_spam":false,"owner":{"id":"178843472","is_verified":false,"profile_pic_url":"https:\/\/instagram.fhex4-1.fna.fbcdn.net\/v\/t51.2885-19\/s150x150\/68965028_2118349111610526_4815233529426214912_n.jpg?_nc_ht=instagram.fhex4-1.fna.fbcdn.net&_nc_ohc=-L-BkRaKtKIAX9uTrgs&oh=d720784025418ba18c6adde6c1f6dba6&oe=5E95193E","username":"a_blandino"},"viewer_has_liked":false,"edge_liked_by":{"count":1}}}]},"comments_disabled":false,"taken_at_timestamp":1549911193,"edge_media_preview_like":{"count":57,"edges":[{"node":{"id":"1591779424","is_verified":false,"profile_pic_url":"https:\/\/instagram.fhex4-1.fna.fbcdn.net\/v\/t51.2885-19\/10860161_341457842700542_2030466691_a.jpg?_nc_ht=instagram.fhex4-1.fna.fbcdn.net&_nc_ohc=xVKyysESpm8AX8rtsJE&oh=2e2e6ce7e7e64e72fa1c31526964bd5e&oe=5E963CDF","username":"adbiera"}}]},"edge_media_to_sponsor_user":{"edges":[]},"location":null,"viewer_has_liked":false,"viewer_has_saved":false,"viewer_has_saved_to_collection":false,"viewer_in_photo_of_you":false,"viewer_can_reshare":true,"owner":{"id":"1682786618","is_verified":false,"profile_pic_url":"https:\/\/instagram.fhex4-1.fna.fbcdn.net\/v\/t51.2885-19\/s150x150\/11910453_410305779159638_519085270_a.jpg?_nc_ht=instagram.fhex4-1.fna.fbcdn.net&_nc_ohc=QezSIs0L06IAX9iod6G&oh=c8fc8dca15119e1f3cdbed7052ef9f91&oe=5E9DE3F5","username":"adagioballetpro","blocked_by_viewer":false,"followed_by_viewer":false,"full_name":"Adagio Ballet Project","has_blocked_viewer":false,"is_private":false,"is_unpublished":false,"requested_by_viewer":false},"is_ad":false,"edge_web_media_to_related_media":{"edges":[]},"edge_sidecar_to_children":{"edges":[{"node":{"__typename":"GraphImage","id":"1977120846833473282","shortcode":"BtwJO9Zh1cC","dimensions":{"height":720,"width":1080},"gating_info":null,"fact_check_overall_rating":null,"fact_check_information":null,"media_preview":"ACocx9Ph82XB5wpP49B+prchG9ORnHBrJs3WB5EB+bIC++G5\/Otm3cpIS33XweOmff0oNo6IcqYG3uKsmOPuCB+Pt\/8AXz+FSPGPvL+X+FRFjQVe+xWmWLacde3Xrx09uuc8+lZRArUuHO3HasgvzQJ6EcxaKTzI14xzx+f\/AOurUU0kg3KDgdsf54\/Cr3lipEGOlAJeZTa+ZI9x+Yg8\/Q+npim2t888hzwvYDp\/+urZtUkJ3Z5p6W6W4ITjNAWd\/Iq3UmBWRmrl4xrPzQTJ6n\/\/2Q==","display_url":"https:\/\/instagram.fhex4-2.fna.fbcdn.net\/v\/t51.2885-15\/e35\/50592103_241487906792264_6284593331812607068_n.jpg?_nc_ht=instagram.fhex4-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=8uGD4Cp1wF4AX-Ti4v1&oh=4b7c920aafabdf5a09eb75f4d33fbd0e&oe=5EA2E9C1","display_resources":[{"src":"https:\/\/instagram.fhex4-2.fna.fbcdn.net\/v\/t51.2885-15\/sh0.08\/e35\/s640x640\/50592103_241487906792264_6284593331812607068_n.jpg?_nc_ht=instagram.fhex4-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=8uGD4Cp1wF4AX-Ti4v1&oh=54bd3100e847f4ed8accac018b48fcd8&oe=5EA05924","config_width":640,"config_height":426},{"src":"https:\/\/instagram.fhex4-2.fna.fbcdn.net\/v\/t51.2885-15\/sh0.08\/e35\/s750x750\/50592103_241487906792264_6284593331812607068_n.jpg?_nc_ht=instagram.fhex4-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=8uGD4Cp1wF4AX-Ti4v1&oh=9da72954e31b5826ca54b3167dff5e09&oe=5E951424","config_width":750,"config_height":500},{"src":"https:\/\/instagram.fhex4-2.fna.fbcdn.net\/v\/t51.2885-15\/e35\/50592103_241487906792264_6284593331812607068_n.jpg?_nc_ht=instagram.fhex4-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=8uGD4Cp1wF4AX-Ti4v1&oh=4b7c920aafabdf5a09eb75f4d33fbd0e&oe=5EA2E9C1","config_width":1080,"config_height":720}],"accessibility_caption":"Image may contain: one or more people, people sitting and shoes, possible text that says 'TODO es...-'","is_video":false,"tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNWJkNjUzY2UzZmNhNGFhNmIwNDliMmE2NGUwMzBmNTAxOTc3MTIwODQ2ODMzNDczMjgyIiwic2VydmVyX3Rva2VuIjoiMTU3ODI4MjYwMjI4OHwxOTc3MTIwODQ2ODMzNDczMjgyfDQ5MDY5Nzk5N3xhMmUyNmMxOTBlNWYwMTJkMmJjYmFlNjI3YmY5YTM5MjdlYmE4ZTFmYjQxMzEzMGU5N2I5MTgyNjMwMTQ3YzBmIn0sInNpZ25hdHVyZSI6IiJ9","edge_media_to_tagged_user":{"edges":[]}}},{"node":{"__typename":"GraphImage","id":"1977120846850217331","shortcode":"BtwJO9ahtVz","dimensions":{"height":720,"width":1080},"gating_info":null,"fact_check_overall_rating":null,"fact_check_information":null,"media_preview":"ACocyLNN1xsAwDuBHtg\/y4rbgi8xTE2Ny8H+hH86xrZsXDY9W\/nWuIzvDKfu\/mR9R70G0di15TIAG64pTEe4pzXSOAp\/M9ie1ThvXOfx6\/5x0oKuynNCoXPOR\/k1mlRWrcn5f55H8jWOW5oEVbo7JA6LwBzjucnrViG7Y5YdDwRU+0UBR93tQK2o5bjkEjiXAPGeV6jp3FXUlUHYD\/ug5zj059P5VFAu08dqtk8UFIp3MmBWMZOavXjGsrNBEnqf\/9k=","display_url":"https:\/\/instagram.fhex4-1.fna.fbcdn.net\/v\/t51.2885-15\/e35\/51626610_390540991731281_5154035139133416870_n.jpg?_nc_ht=instagram.fhex4-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=B8p9RRvbR2YAX9lkD9x&oh=523807a079f235376e3fc25ef7f5edc4&oe=5EA3A905","display_resources":[{"src":"https:\/\/instagram.fhex4-1.fna.fbcdn.net\/v\/t51.2885-15\/sh0.08\/e35\/s640x640\/51626610_390540991731281_5154035139133416870_n.jpg?_nc_ht=instagram.fhex4-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=B8p9RRvbR2YAX9lkD9x&oh=d472435e4d93f16533f99db5e0ac7bcf&oe=5EA27FE0","config_width":640,"config_height":426},{"src":"https:\/\/instagram.fhex4-1.fna.fbcdn.net\/v\/t51.2885-15\/sh0.08\/e35\/s750x750\/51626610_390540991731281_5154035139133416870_n.jpg?_nc_ht=instagram.fhex4-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=B8p9RRvbR2YAX9lkD9x&oh=d015f8b17b5f4621c1b0a5e816b94bc3&oe=5EAF3CE0","config_width":750,"config_height":500},{"src":"https:\/\/instagram.fhex4-1.fna.fbcdn.net\/v\/t51.2885-15\/e35\/51626610_390540991731281_5154035139133416870_n.jpg?_nc_ht=instagram.fhex4-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=B8p9RRvbR2YAX9lkD9x&oh=523807a079f235376e3fc25ef7f5edc4&oe=5EA3A905","config_width":1080,"config_height":720}],"accessibility_caption":"Image may contain: one or more people, people sitting and shoes, possible text that says 'Ja PRAC TICA. Edson Arantes do Nascimento, \"Pel\u00e9\" astro futbol Brasile\u00f1o'","is_video":false,"tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNWJkNjUzY2UzZmNhNGFhNmIwNDliMmE2NGUwMzBmNTAxOTc3MTIwODQ2ODUwMjE3MzMxIiwic2VydmVyX3Rva2VuIjoiMTU3ODI4MjYwMjI4OHwxOTc3MTIwODQ2ODUwMjE3MzMxfDQ5MDY5Nzk5N3wyMmYxODNkMzBlNDFiOWJjYTAzNTFmMzgyNjFiYzJhNzk1NjMwMWYxYThkNTVlN2Q1MmNmZGNiODc1MTdmYjZlIn0sInNpZ25hdHVyZSI6IiJ9","edge_media_to_tagged_user":{"edges":[]}}}]}}}});</script><script type="text/javascript">
+(function(){
+  function normalizeError(err) {
+    var errorInfo = err.error || {};
+    var getConfigProp = function(propName, defaultValueIfNotTruthy) {
+      var propValue = window._sharedData && window._sharedData[propName];
+      return propValue ? propValue : defaultValueIfNotTruthy;
+    };
+    return {
+      line: err.line || errorInfo.message || 0,
+      column: err.column || 0,
+      name: 'InitError',
+      message: err.message || errorInfo.message || '',
+      script: errorInfo.script || '',
+      stack: errorInfo.stackTrace || errorInfo.stack || '',
+      timestamp: Date.now(),
+      ref: window.location.href,
+      deployment_stage: getConfigProp('deployment_stage', ''),
+      is_canary: getConfigProp('is_canary', false),
+      rollout_hash: getConfigProp('rollout_hash', ''),
+      is_prerelease: window.__PRERELEASE__ || false,
+      bundle_variant: getConfigProp('bundle_variant', null),
+      request_url: err.url || window.location.href,
+      response_status_code: errorInfo.statusCode || 0
+    }
+  }
+  window.addEventListener('load', function(){
+    if (window.__bufferedErrors && window.__bufferedErrors.length) {
+      if (window.caches && window.caches.keys && window.caches.delete) {
+        window.caches.keys().then(function(keys) {
+          keys.forEach(function(key) {
+            window.caches.delete(key)
+          })
+        })
+      }
+      window.__bufferedErrors.map(function(error) {
+        return normalizeError(error)
+      }).forEach(function(normalizedError) {
+        var request = new XMLHttpRequest();
+        request.open('POST', '/client_error/', true);
+        request.setRequestHeader('Content-Type', 'application/json; charset=utf-8');
+        request.send(JSON.stringify(normalizedError));
+      })
+    }
+  })
+}());
+</script>
